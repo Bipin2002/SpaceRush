@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\weapon\\bullethandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\bullethandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\shipselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shipselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\scoregiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scoregiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|c:\\users\\bipin nagarkoti\\spaceshooter-main\\spaceshooter-main\\assets\\script\\enemyweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\healthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\pageloader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pageloader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\scorehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scorehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|c:\\users\\bipin nagarkoti\\spaceshooter-main\\spaceshooter-main\\assets\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\aienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\aienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\weapon\\targetlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\targetlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Temp\\Preprocessed-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Preprocessed-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\spaceship\\spaceshipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spaceship\\spaceshipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\weapon\\weaponprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\shipspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shipspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\shiploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shiploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\pageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\scenes\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\asteroids pack\\assets\\scripts\\randomrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\asteroids pack\\assets\\scripts\\randomrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\assets\\script\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11979C6-C2F1-0E34-B5E1-EAB0082EF82E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\BulletHandlers.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\BulletHandlers.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\BulletHandlers.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\BulletHandlers.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:49:18.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\EnemyWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyWeapon.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\EnemyWeapon.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T03:20:13.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreGiver.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ScoreGiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScoreGiver.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ScoreGiver.cs",
+              "RelativeToolTip": "Assets\\Script\\ScoreGiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:30:31.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScoreHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ScoreHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScoreHandler.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ScoreHandler.cs",
+              "RelativeToolTip": "Assets\\Script\\ScoreHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:30:06.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\HealthHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HealthHandler.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\HealthHandler.cs",
+              "RelativeToolTip": "Assets\\Script\\HealthHandler.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:19:34.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:07:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageLoader2.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\PageLoader2.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PageLoader2.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\PageLoader2.cs",
+              "RelativeToolTip": "Assets\\Script\\PageLoader2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:00:34.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TargetLock.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\TargetLock.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\TargetLock.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\TargetLock.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\TargetLock.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:50:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShipSelection.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ShipSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ShipSelection.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ShipSelection.cs",
+              "RelativeToolTip": "Assets\\Script\\ShipSelection.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwFoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:19:26.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FollowCam.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\FollowCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FollowCam.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\FollowCam.cs",
+              "RelativeToolTip": "Assets\\Script\\FollowCam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:06:09.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShipLoader.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ShipLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ShipLoader.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ShipLoader.cs",
+              "RelativeToolTip": "Assets\\Script\\ShipLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:06:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShipSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ShipSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ShipSpawner.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\ShipSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\ShipSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:06:00.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponHandler.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponHandler.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:00:48.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:04:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AIEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\AIEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AIEnemy.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\AIEnemy.cs",
+              "RelativeToolTip": "Assets\\Script\\AIEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:54:22.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\CameraSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraSwitcher.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\CameraSwitcher.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraSwitcher.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:08:31.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Scenes\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Turret.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Scenes\\Turret.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Turret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:49:49.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeaponProfile.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\WeaponProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponProfile.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Weapon\\WeaponProfile.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:00:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpaceShipProfile.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\SpaceShip\\SpaceShipProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpaceShip\\SpaceShipProfile.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\SpaceShip\\SpaceShipProfile.cs",
+              "RelativeToolTip": "Assets\\Script\\SpaceShip\\SpaceShipProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:07:37.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Preprocessed-Standard.shader",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Temp\\Preprocessed-Standard.shader",
+              "RelativeDocumentMoniker": "Temp\\Preprocessed-Standard.shader",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Temp\\Preprocessed-Standard.shader",
+              "RelativeToolTip": "Temp\\Preprocessed-Standard.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-07-06T18:12:08.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PageLoader.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\PageLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PageLoader.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\PageLoader.cs",
+              "RelativeToolTip": "Assets\\Script\\PageLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:21:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RandomRotator.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Asteroids Pack\\Assets\\Scripts\\RandomRotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Asteroids Pack\\Assets\\Scripts\\RandomRotator.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Asteroids Pack\\Assets\\Scripts\\RandomRotator.cs",
+              "RelativeToolTip": "Assets\\Asteroids Pack\\Assets\\Scripts\\RandomRotator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:57:22.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Asteroid.cs",
+              "DocumentMoniker": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Asteroid.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Asteroid.cs",
+              "ToolTip": "C:\\Users\\bipin nagarkoti\\SpaceShooter-main\\SpaceShooter-main\\Assets\\Script\\Asteroid.cs",
+              "RelativeToolTip": "Assets\\Script\\Asteroid.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:04:12.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
